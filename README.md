@@ -34,6 +34,9 @@ This project contains three folders: `data`, `results`, `src`.
 - `results`: This folder contains the results of the experiments.
 - `src`: This folder contains the source code and the code for experiment comparison.
 
+## Data
+The  datasets used for the numerical study are available in the `data` directory.
+
 ## Replicating
 To reproduce each result in the paper, please run the file with the corresponding case number in the "src" directory. For example, to generate the numerical results of weight in Simulation 1 of Section 5.1 (Figure 2), please run matlab `src/Sim1/Simu_1/Figure1_Figure2.m`.
 
