@@ -1,6 +1,6 @@
 To reproduce the results of Figure 4, please run
 
-- Wine_red.m and Wine_white.m to store results of Figure 4
+- wine_red.m and wine_white.m to store results of Figure 4
 
 Other listed files are used in the main codes mentioned above: 
 
