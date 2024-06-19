@@ -29,7 +29,7 @@ Below is the BibTex for citing this version of the code.
  by scoring functions, RMA assigns weights for each model determined by a K-fold cross-validation criterion
  based on pairwise loss. 
 
-This project contains four folders: `data`, `results`, `src`.
+This project contains three folders: `data`, `results`, `src`.
 - `data`: This folder includes the data used in the paper.
 - `results`: This folder contains the results of the experiments.
 - `src`: This folder contains the source code and the code for experiment comparison.
