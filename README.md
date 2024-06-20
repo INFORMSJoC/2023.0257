@@ -17,7 +17,7 @@ Below is the BibTex for citing this snapshot of the repository.
 @misc{CacheTest,
   author =        {Z. Feng, B. He, T. Xie, X. Zhang, and P. Xian},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
+  title =         {{RMA: Ranking based on model averaging}},
   year =          {2024},
   doi =           {10.1287/ijoc.2023.0257.cd},
   url =           {https://github.com/INFORMSJoC/2023.0257},
