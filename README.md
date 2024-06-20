@@ -1,4 +1,3 @@
-# 2023.0257
 
 ![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)
 
