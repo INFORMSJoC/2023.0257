@@ -4,7 +4,7 @@
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](https://github.com/INFORMSJoC/2023.0257/blob/master/LICENSE).
 
-The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [RMA: Ranking based on model averaging](https://doi.org/10.1287/ijoc.2023.0257) by Z. Feng, B. He, T. Xie, X. Zhang, and P. Xian. 
+The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [RMA: Ranking based on model averaging](https://doi.org/10.1287/ijoc.2023.0257) by Z. Feng, B. He, T. Xie, X. Zhang, and X. Zong. 
 
 ## Cite
 
@@ -18,7 +18,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{FengRMA2024,
-  author =        {Z. Feng, B. He, T. Xie, X. Zhang, and P. Xian},
+  author =        {Z. Feng, B. He, T. Xie, X. Zhang, and X. Zong},
   publisher =     {INFORMS Journal on Computing},
   title =         {RMA: Ranking based on model averaging},
   year =          {2024},
