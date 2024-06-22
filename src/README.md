@@ -3,5 +3,5 @@
 - `Order priority example` folder: to reproduce Figure 3 in Section 6.1
 - `Wine example` folder: to reproduce Figure 4 in Section 6.2
 - `Piston example` folder: to reproduce Figure 5 in Section 6.3
-- `Supplement` folder folder: to reproduce the results in Supplement
-- `output` folder` folder: to store the results
+- `Supplement` folder: to reproduce the results in Supplement
+- `output` folder: to store the results
