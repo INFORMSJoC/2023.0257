@@ -8,4 +8,4 @@ Other listed files are used in the main codes mentioned above:
 - pairwise_loss.m, pairwise_loss_real.m, pairwise_loss_approximate_Annals_1.m, pairwise_loss_approximate_Annals_2.m, pairwise_loss_approximate_Annals_3.m, and pairwise_loss_approximate_Annals_4.m are used to calculate ranking loss
 - parfor_prograss.m is used for parallel program
 - kcv_nls_linear.m is used for the competing method proposed by Zhang and Liu (2023)
-- Piston100.m is piston slap noise data that needs to be used in the main code
+- piston100data.m is piston slap noise data that needs to be used in the main code
