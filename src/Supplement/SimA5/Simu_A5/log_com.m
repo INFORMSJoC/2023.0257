@@ -8,7 +8,7 @@ rseed=RandStream('mt19937ar','Seed',20222022);
 RandStream.setGlobalStream(rseed);
 options=optimset('algorithm','interior-point-convex','Display','off','MaxIter',500);
 
-S=2;          
+S=500;          
 M=2;              
 w0=ones(M,1)/M; 
 
@@ -16,7 +16,7 @@ w0=ones(M,1)/M;
 cs=[0.01,0.1:0.1:0.9,0.99];   
 cn=length(cs);
 
-for jj=1
+for jj=2:5
 
 if jj==1; n=50; Ks=floor([2,5,n/8,n/7,n/6,n/5,n/4,n/3,n/2,n]);  end 
 if jj==2; n=100; Ks=floor([2,5,10,n/8,n/6,n/5,n/4,n/3,n/2,n]);  end 
