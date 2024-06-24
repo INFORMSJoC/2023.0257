@@ -2,4 +2,4 @@
 
 Figure5.R: to plot the results (Figure 5) reproduced from `Simu_6.3` folder
 
-Note: When running Figure5.R to plot the figure, we need to change the path ("C:/Users/dell/Desktop") to the input data at the beginning of the code to the current desktop path of the reader. The rest of the path ("2023.0257/scr/output/...") remains unchanged.
+Note: When running Figure5.R to plot the figure, we need to change the path ("C:/Users/dell/Desktop") of the input data at the beginning of the code to the current desktop path of the reader. The rest of the path ("2023.0257/scr/output/...") remains unchanged.
