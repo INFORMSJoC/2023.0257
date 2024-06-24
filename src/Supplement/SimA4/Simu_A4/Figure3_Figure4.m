@@ -13,7 +13,7 @@ V=1;
 p=4;
 r=16;
 q=p+r;
-M=p;
+M=q;
 w0=ones(M,1)/M;  
 
 rho=0.5;
@@ -352,7 +352,7 @@ r2_cn_in(c,:)=mean(r2s_in.^2);
 w_cn(c,:)=mean(ws_cv);
 w_cn_pl(c,:)=mean(wpl_cv);
 w_cn_pl_loss(c,:)=mean(wpl_loss_cv);
-w(c,:)=rws(4,:)/S;
+w(c,:)=sum(rws(4:end,:))/S;
 k_cn(c,:)=mean(ks_min);
 pl_cn(c,:)=mean(pl_min);
 pl_loss_cn(c,:)=mean(pl_loss_min);
