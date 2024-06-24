@@ -10,4 +10,4 @@ Other listed files are used in the main codes mentioned above:
 - pairwise_loss.m, pairwise_loss_real.m, pairwise_loss_approximate_Annals_1.m, pairwise_loss_approximate_Annals_2.m, pairwise_loss_approximate_Annals_3.m, and pairwise_loss_approximate_Annals_4.m are used to calculate ranking loss
 - parfor_prograss.m is used for parallel program
 - kcv_nlsM_linear.m is used for the competing method proposed by Zhang and Liu (2023)
-- order prority data.xlsx, group score.xlsx, and Piston100.m are the data that needs to be used in the main code
+- order prority data.xlsx, group score.xlsx, and piston100.m are the data that needs to be used in the main code
