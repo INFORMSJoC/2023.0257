@@ -1,7 +1,7 @@
 To reproduce the results of Figures 5 to 7 in the supplement, please run
 
 - Figure5_Figure6_Figure7.m, Figure5_Figure6_Figure7_mix.m, normal_com.m, log_com.m, and SimA5_compare.m to store results of Figures 5 to 7 in the supplement
-- Note: When running the above codes to store the results, we need to change the path ("C:/Users/dell/Desktop") of the output data at the end of the code to the current desktop path of the reader. The rest of the path ("2023.0257/scr/output/...") remains unchanged.
+- Note: When running the above codes to store the results, we need to change the path ("C:\Users\dell\Desktop") of the output data at the end of the code to the current desktop path of the reader. The rest of the path ("2023.0257\scr\output\...") remains unchanged.
 
 Other listed files are used in the main codes mentioned above:
 
