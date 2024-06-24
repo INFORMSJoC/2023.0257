@@ -3,7 +3,7 @@ To reproduce the results of Tables 1 and 6, please run
 - Table1_Table4.m to store results of Tables 1 and 4
 - Table2_Table5.m to store results of Tables 2 and 5
 - Table3_Table6.m to store results of Tables 3 and 6
-- Note: When running the above codes to store the results, we need to change the path ("C:/Users/dell/Desktop") of the output data at the end of the code to the current desktop path of the reader. The rest of the path ("2023.0257/scr/output/...") remains unchanged.
+- Note: When running the above codes to store the results, we need to change the path ("C:\Users\dell\Desktop") of the output data at the end of the code to the current desktop path of the reader. The rest of the path ("2023.0257\scr\output\...") remains unchanged.
 
 Other listed files are used in the main codes mentioned above:
 
