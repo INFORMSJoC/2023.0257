@@ -1,6 +1,7 @@
 To reproduce the results of Table 3 in the supplement, please run
 
 - Table7_sim1_2.m, Table7_sim1_5.m, Table7_sim1_10.m, Table7_sim1_n2.m, Table7_sim1_op.m, Table7_sim2_2.m, Table7_sim2_5.m, Table7_sim2_10.m, Table7_sim2_n2.m, and Table7_sim2_op.m to store results of Table 3
+- Note: When running the above codes to store the results, we need to change the path ("C:/Users/dell/Desktop") of the output data at the end of the code to the current desktop path of the reader. The rest of the path ("2023.0257/scr/output/...") remains unchanged.
 
 Other listed files are used in the main codes mentioned above:
 
