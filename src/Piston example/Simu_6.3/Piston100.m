@@ -15,8 +15,8 @@ options=optimset('algorithm','interior-point-convex','Display','off','MaxIter',5
 warning('off')
 
 % Load data and define variables
-load('piston100.m')
-data=piston100;
+load('piston100data.m')
+data=piston100data;
 Y=data(:,8);             
 X=zscore(data(:,2:7));
 N=length(Y);
