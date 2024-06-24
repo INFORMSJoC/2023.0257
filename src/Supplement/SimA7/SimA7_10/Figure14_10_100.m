@@ -503,7 +503,6 @@ ppl_Annals_2_cn_in_med(c,:)=median(ppl_Annals_2_in);
 
 end
 
-save 
 xlswrite('C:\Users\dell\Desktop\2023.0257\scr\output\Survival_exmple10_mean.xlsx',ppl_cn(:,[1:8,10,16:19])./ppl_cn(:,17),1,'A2'); 
 xlswrite('C:\Users\dell\Desktop\2023.0257\scr\output\Survival_exmple10_mean.xlsx',ppl_Annals_2_cn(:,[1:8,10,16:19])./ppl_Annals_2_cn(:,17),1,'A5'); 
 xlswrite('C:\Users\dell\Desktop\2023.0257\scr\output\Survival_exmple10_std.xlsx',ppl_cn_sd(:,[1:8,10,16:19])./ppl_cn_sd(:,17),1,'A2'); 
