@@ -1,6 +1,6 @@
 To reproduce the results of Figure 3, please run
 - Order15.m, Order20.m, Order25.m, and Order28.m to store results of Figure 3
-- Note: When running the above codes to store the results, we need to change the path ("C:/Users/dell/Desktop") to the output data at the end of the code to the current desktop path of the reader. The rest of the path ("2023.0257/scr/output/...") remains unchanged.
+- Note: When running the above codes to store the results, we need to change the path ("C:/Users/dell/Desktop") of the output data at the end of the code to the current desktop path of the reader. The rest of the path ("2023.0257/scr/output/...") remains unchanged.
 
 Other listed files are used in the main codes mentioned above:
 - plma_kcv_linear_approximate_lambda_CV_all_Annals.m, CV_pl_sim2_linear_Annals.m, and CV_pl_sim2_linear_real.m are used for the proposed method
