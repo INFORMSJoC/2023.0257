@@ -1,7 +1,7 @@
 To reproduce the results of Figure 14 in the supplement, please run
 
 - Figure14_10_50.m, Figure14_10_100.m, and Figure14_10_200.m to store results of Figure 14 in the supplement
-- Note: When running the above codes to store the results, we need to change the path ("C:/Users/dell/Desktop") of the data  to the current desktop path of the reader. The rest of the path ("2023.0257/scr/...") remains unchanged.
+- Note: When running the above codes to store the results, we need to change the path ("C:\Users\dell\Desktop") of the data  to the current desktop path of the reader. The rest of the path ("2023.0257\scr\...") remains unchanged.
 
 Other listed files are used in the main codes mentioned above:
 
