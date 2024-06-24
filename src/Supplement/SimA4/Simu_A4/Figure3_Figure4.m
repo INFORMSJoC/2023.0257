@@ -23,7 +23,7 @@ sig_x=rho*(ones(q,q)-eye(q))+eye(q);
 cs=[0.01,0.1:0.1:0.9,0.99];
 cn=length(cs);
 
-for jj=2
+for jj=2:5
 if jj==1; n=50; Ks=floor([2,5,n/8,n/7,n/6,n/5,n/4,n/3,n/2,n]);  end 
 if jj==2; n=100; Ks=floor([2,5,10,n/8,n/6,n/5,n/4,n/3,n/2,n]);  end 
 if jj==3; n=200; Ks=floor([2,5,10,20,30,n/5,n/4,n/3,n/2,n]);  end 
