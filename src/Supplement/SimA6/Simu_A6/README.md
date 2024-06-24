@@ -3,6 +3,7 @@ To reproduce the results of Figures 8 to 13 in the supplement, please run
 - Figure8_Figure11_order_15.m, Figure8_Figure11_order_20.m, Figure8_Figure11_order_25.m, Figure8_Figure11_order_28.m, and Figure11_Figure12_Figure13_compare_BIC_cor.m to store results of Figures 8 and 11 in the supplement
 - Figure9_Figure12_wine_red.m, Figure9_Figure12_wine_white.m, and Figure11_Figure12_Figure13_compare_BIC_cor.m to store results of Figures 9 and 12 in the supplement
 - Figure10_Figure13_piston_40.m, Figure10_Figure13_piston_60.m, Figure10_Figure13_piston_80.m, Figure10_Figure13_piston_90.m, and Figure11_Figure12_Figure13_compare_BIC_cor.m to store results of Figures 10 and 13 in the supplement
+- Note: When running the above codes to store the results, we need to change the path ("C:/Users/dell/Desktop") of the output data at the end of the code to the current desktop path of the reader. The rest of the path ("2023.0257/scr/output/...") remains unchanged.
 
 Other listed files are used in the main codes mentioned above:
 
