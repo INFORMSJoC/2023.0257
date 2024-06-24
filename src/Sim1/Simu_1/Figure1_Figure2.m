@@ -23,8 +23,8 @@ w0=ones(M,1)/M;
 
 rho=0.5;
 % sig_x=rho*(rho*(ones(r,r)-eye(r))+eye(r)); 
-% sig_x=rho*(ones(q,q)-eye(q))+eye(q);          % correlation
-sig_x=eye(q);                                   % uncorrelation
+sig_x=rho*(ones(q,q)-eye(q))+eye(q);              % correlation
+% sig_x=eye(q);                                   % uncorrelation
 cs=[0.01,0.1:0.1:0.9,0.99];
 cn=length(cs);
 
