@@ -4,7 +4,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear all; tic;
-rseed=RandStream('mt19937ar','Seed',202301);  %set seed for reproducing results
+rseed=RandStream('mt19937ar','Seed',202301);  
 RandStream.setGlobalStream(rseed);
 options=optimset('algorithm','interior-point-convex','Display','off','MaxIter',500);
 warning('off')
