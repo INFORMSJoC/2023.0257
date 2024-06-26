@@ -21,7 +21,7 @@ cs=sqrt(R./(1-R));
 cn=length(cs);
 gam=(j_s.^(-alpha-0.5))*sqrt(2*alpha);
 
-for jj=2:5  
+for jj=1:4  
 if jj==1; n=50; Ks=floor([2,5,n/8,n/7,n/6,n/5,n/4,n/3,n/2,n]);  end 
 if jj==2; n=100; Ks=floor([2,5,10,n/8,n/6,n/5,n/4,n/3,n/2,n]);  end 
 if jj==3; n=200; Ks=floor([2,5,10,20,30,n/5,n/4,n/3,n/2,n]);  end 
