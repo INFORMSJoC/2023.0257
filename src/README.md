@@ -1,0 +1,7 @@
+- `Sim1` folder: to reproduce Figure 1 to Figure 2 in Section 5.1
+- `Sim2` folder: to reproduce Table 1 to Table 6 in Section 5.2
+- `Order priority example` folder: to reproduce Figure 3 in Section 6.1
+- `Wine example` folder: to reproduce Figure 4 in Section 6.2
+- `Piston example` folder: to reproduce Figure 5 in Section 6.3
+- `Supplement` folder: to reproduce the results in Supplement
+- `output` folder: to store the results
